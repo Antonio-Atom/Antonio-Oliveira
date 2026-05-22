@@ -9,6 +9,7 @@
 Estudante da **USP**, apaixonado por tecnologia, desenvolvimento de software, arquitetura de sistemas e projetos criativos.  
 Atualmente focado em **Back-end**, **Full Stack**, APIs, Estruturas de Dados e Engenharia de Software.
 
+### Tecnologias/ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Antonio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,15 +23,7 @@ Atualmente focado em **Back-end**, **Full Stack**, APIs, Estruturas de Dados e E
   <img align="center" alt="Antonio-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
-##
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-##
+### Contatos
 
 <div> 
   <a href = "mailto:antoniooliveria.atom@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
