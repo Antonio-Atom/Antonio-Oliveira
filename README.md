@@ -1,19 +1,13 @@
 # 👨‍💻 Antonio Oliveira
 
 <div align="center">
-
-<!-- FOTO / GIF DO PERFIL -->
-<img src="LINK_DA_SUA_IMAGEM_AQUI" width="180px" style="border-radius:50%" />
-
 <br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Back-end+Developer;Full+Stack+Developer;USP+Student;Python+%7C+Java+%7C+JavaScript+%7C+C" />
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Atom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Atom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Atom)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -34,9 +28,9 @@ foco:
 
 linguagens:
   - Python
-  - Java
-  - JavaScript
   - C
+  - JavaScript
+  - Java
 
 interesses:
   - Sistemas
@@ -51,28 +45,10 @@ interesses:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,mysql,git,github,vscode" />
 
 </div>
 
----
-
-# 📌 Projeto Principal
-
-## 🎲 PGRPG
-
-> Plataforma de gerenciamento voltada para RPG e organização de campanhas.
-
-### Funcionalidades planejadas:
-- gerenciamento de campanhas;
-- controle de sessões;
-- organização de personagens;
-- sistema de mundos e lore;
-- automações;
-- gerenciamento de grupos;
-- interface moderna e intuitiva.
-
----
 
 # 📈 Atividade
 
@@ -101,7 +77,7 @@ interesses:
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8">
 </a>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="www.linkedin.com/in/antonio-de-oliveira">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8">
 </a>
 
