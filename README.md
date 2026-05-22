@@ -7,7 +7,13 @@
 
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Atom)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Atom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Atom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=c9d1d9"/>
+
+</div>
 
 </div>
 
